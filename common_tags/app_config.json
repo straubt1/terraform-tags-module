@@ -1,0 +1,19 @@
+[{
+        "app_code": "TFE",
+        "Application": "Terraform Enterprise",
+        "Cost-Code": "1111",
+        "PC_Asset-Compliance-Class": "NA",
+        "Business-Criticality": "Tier 1",
+        "Owner": "Walter White",
+        "Owner-Email": "walter.white@amc.com"
+    },
+    {
+        "app_code": "TAB",
+        "Application": "Awesome Test Stack",
+        "Cost-Code": "2222",
+        "PC_Asset-Compliance-Class": "NA",
+        "Business-Criticality": "Tier 1",
+        "Owner": "Jesse Pinkman",
+        "Owner-Email": "jesse.white@amc.com"
+    }
+]
